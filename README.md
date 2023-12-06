@@ -4,7 +4,7 @@
 
 ## Education			       		
 - Master of Applied Science	| Toronto Metropolitan University (formerly Ryerson University) (_January 2023_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_April 2020_)
+- Bachelor of Engineering | Toronto Metropolitan University (_April 2020_)
 
 ## Work Experience
 **Machine Learning Researcher @ Toronto Metropolitan University (_June 2023 - Present_)**
@@ -48,6 +48,6 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
-1. Aujla S. et al. Multi-Level Classification of Lung Pathologies in Neonates using Recurrence Features (2022). DOI: 10.1109/EMBC48229.2022.9871011
-2. Aujla S. et al. Classification of lung pathologies in neonates using dual-tree complex wavelet transform (2023). DOI: 10.1186/s12938-023-01184-x
+1. Aujla S. et al. Classification of Lung Pathologies in Neonates Using Dual-Tree Complex Wavelet Transform (2023). DOI: 10.1186/s12938-023-01184-x
+2. Aujla S. et al. Multi-Level Classification of Lung Pathologies in Neonates using Recurrence Features (2022). DOI: 10.1109/EMBC48229.2022.9871011
 
