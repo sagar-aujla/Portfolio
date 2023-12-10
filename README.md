@@ -37,16 +37,6 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
 ## Publications
 1. Aujla S. et al. Classification of Lung Pathologies in Neonates Using Dual-Tree Complex Wavelet Transform (2023). DOI: 10.1186/s12938-023-01184-x
 2. Aujla S. et al. Multi-Level Classification of Lung Pathologies in Neonates using Recurrence Features (2022). DOI: 10.1109/EMBC48229.2022.9871011
