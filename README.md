@@ -43,7 +43,8 @@ Developed a model to automatically identify and track significant features or ab
 
 
 ![image](https://github.com/sagar-aujla/Portfolio/assets/133696043/5e102d7f-bcb9-471f-9db1-3e465f15db4e)
-[![Object Detection and Tracking Demo](/DeepSORT/output_Normal.mp4)]
+
+[Object Detection and Tracking Demo](/DeepSORT/output_Normal.mp4)
 
 Click on the link above to download a video of the object detection and tracking system in action.
 
