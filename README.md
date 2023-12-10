@@ -26,7 +26,7 @@
 ### Classification of Lung Pathologies in Neonates Using Dual-Tree Complex Wavelet Transform
 [Publication](https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/s12938-023-01184-x)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Developed a framework for classifying the six most common neonatal lung pathologies using spatially localized line and texture patterns extracted via 2D dual-tree complex wavelet transform (DTCWT). This data-driven approach combined clinical knowledge and machine learning to better characterization of neonatal lung diseases by identifying line and texture patterns that were associated with the diseases. The proposed method provides a fully automated point-of-care tool that could screen and capture LUS morphologies associated with neonatal lung pathologies could aid in rapid and accurate diagnosis.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
