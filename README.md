@@ -30,12 +30,20 @@ Developed a framework for classifying the six most common neonatal lung patholog
 
 ![Lung Pathologies](/img/LungPathologies.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Object Detection and Tracking of Lung Ultrasound Signs in Neonates Using YOLO and DeepSORT
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+
+Developed a model to automatically identify and track significant features or abnormalities within lung ultrasound images. By leveraging deep learning techniques, it aims to enhance the efficiency of diagnosing and monitoring pulmonary conditions. 
+- **Algorithm:** Implement a tracking algorithm (e.g., DeepSORT) to associate detected lung ultrasound signs across frames.
+- **Motion Prediction:** Used Kalman filter for estimating the trajectory of objects over time.
+- **Data Interface:** Develop an interface for seamless integration with existing clinical systems and databases.
+- **Real-time Monitoring:** Enable real-time monitoring of lung ultrasound signs during examinations.
+- **Visualization:** Generate visualizations highlighting detected lung ultrasound signs and their temporal evolution.
+
+
+![image](https://github.com/sagar-aujla/Portfolio/assets/133696043/5e102d7f-bcb9-471f-9db1-3e465f15db4e)
+
 
 ## Publications
 1. Aujla S. et al. Classification of Lung Pathologies in Neonates Using Dual-Tree Complex Wavelet Transform (2023). DOI: 10.1186/s12938-023-01184-x
