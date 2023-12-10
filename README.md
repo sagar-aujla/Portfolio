@@ -28,7 +28,7 @@
 
 Developed a framework for classifying the six most common neonatal lung pathologies using spatially localized line and texture patterns extracted via 2D dual-tree complex wavelet transform (DTCWT). This data-driven approach combined clinical knowledge and machine learning to better characterization of neonatal lung diseases by identifying line and texture patterns that were associated with the diseases. The proposed method provides a fully automated point-of-care tool that could screen and capture LUS morphologies associated with neonatal lung pathologies could aid in rapid and accurate diagnosis.
 
-![Lung Pathologies](//img/LungPathologies.pdf)
+![Lung Pathologies](/img/LungPathologies.pdf)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
