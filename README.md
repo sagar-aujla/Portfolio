@@ -42,7 +42,7 @@ Developed a model to automatically identify and track significant features or ab
 - **Visualization:** Generate visualizations highlighting detected lung ultrasound signs and their temporal evolution.
 
 
-![image](https://github.com/sagar-aujla/Portfolio/assets/133696043/5e102d7f-bcb9-471f-9db1-3e465f15db4e)
+![image](/img/LUS_tracking.png)
 
 [Object Detection and Tracking Demo](/DeepSORT/output_Normal.mp4)
 
