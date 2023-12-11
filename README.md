@@ -44,7 +44,7 @@ Developed a model to automatically identify and track significant features or ab
 
 ![image](/img/LUS_tracking.png)
 
-[Object Detection and Tracking Demo](/DeepSORT/output_Normal.mp4)
+[Object Detection and Tracking Demo](/DeepSORT/output_TTN.mp4)
 
 Click on the link above to download a video of the object detection and tracking system in action.
 
