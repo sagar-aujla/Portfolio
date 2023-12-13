@@ -41,9 +41,6 @@ Developed a model to automatically identify and track significant features or ab
 - **Real-time Monitoring:** Enable real-time monitoring of lung ultrasound signs during examinations.
 - **Visualization:** Generate visualizations highlighting detected lung ultrasound signs and their temporal evolution.
 
-
-![image](/img/LUS_tracking.png)
-
 [Object Detection and Tracking Demo](https://github.com/sagar-aujla/Object-Detection-and-Tracking-LUS-Signs/blob/main/DeepSORT/output_TTN.mp4)
 
 Click on the link above to download a video of the object detection and tracking system in action.
