@@ -1,16 +1,17 @@
 # Sagarjit Aujla
 
-#### Technical Skills: Python, AWS, SQL, C, C++, Azure, Power BI, Git, GitHub, MATLAB, SPSS, Excel
+#### Technical Skills: Python, C, C++, SQL, Excel, Power BI, Git, GitHub, MATLAB, SPSS, AWS, Azure
+#### Python Frameworks: TensorFlow, Keras, Pytorch, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, OpenCV
 
 ## Education			       		
-- Master of Applied Science	| Toronto Metropolitan University (formerly Ryerson University) (_January 2023_)	 			        		
-- Bachelor of Engineering | Toronto Metropolitan University (_April 2020_)
+- Master of Applied Science	| Toronto Metropolitan University (formerly Ryerson University) (_Class of 2023_)	 			        		
+- Bachelor of Engineering | Toronto Metropolitan University (_Class of 2020_)
 
 ## Work Experience
-**Machine Learning Researcher @ Toronto Metropolitan University (_June 2023 - Present_)**
+**Research Assistant @ Toronto Metropolitan University (_June 2023 - Present_)**
 - Detected signs of arrhythmia directly from Modulation Index images using ECG data processing and machine learning algorithms resulting in real-time arrhythmia detection. 
 
-**Software Development Intern @ Exact Imaging	 (_October 2022 - June 2023_)**
+**Intern @ Exact Imaging	 (_October 2022 - June 2023_)**
 - Designed and implemented robust data pipelines to preprocess and prepare new clinical data for advanced prostate segmentation algorithms resulting in better model generalization.
 - Implemented deep learning model using TensorFlow in Python to automate prostate segmentation resulting in a 15% improvement in model performance.
 - Automated processing and analysis of clinical trial data using C and MATLAB to reduce errors and the overall trial cost.
