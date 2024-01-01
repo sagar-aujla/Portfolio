@@ -23,14 +23,14 @@
 
 
 ## Projects
-### Classification of Lung Pathologies in Neonates Using Dual-Tree Complex Wavelet Transform
+## Classification of Lung Pathologies in Neonates Using Dual-Tree Complex Wavelet Transform
 [Publication](https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/s12938-023-01184-x)
 
-Developed a framework for classifying the six most common neonatal lung pathologies using spatially localized line and texture patterns extracted via 2D dual-tree complex wavelet transform (DTCWT). This data-driven approach combined clinical knowledge and machine learning to better characterization of neonatal lung diseases by identifying line and texture patterns that were associated with the diseases. The proposed method provides a fully automated point-of-care tool that could screen and capture LUS morphologies associated with neonatal lung pathologies could aid in rapid and accurate diagnosis.
+Developed a framework for classifying the six most common neonatal lung pathologies using spatially localized line and texture patterns extracted via 2D dual-tree complex wavelet transform (DTCWT). This data-driven approach combined clinical knowledge and machine learning to better characterize neonatal lung diseases by identifying line and texture patterns that were associated with the diseases. The proposed method provides a fully automated point-of-care tool that could screen and capture LUS morphologies associated with neonatal lung pathologies could aid in rapid and accurate diagnosis.
 
 ![Lung Pathologies](/img/LungPathologies.png)
 
-### Object Detection and Tracking of Lung Ultrasound Signs in Neonates Using YOLO and DeepSORT
+## Object Detection and Tracking of Lung Ultrasound Signs in Neonates Using YOLO and DeepSORT
 
 
 
@@ -44,6 +44,17 @@ Developed a model to automatically identify and track significant features or ab
 [Object Detection and Tracking Demo](https://github.com/sagar-aujla/Object-Detection-and-Tracking-LUS-Signs/blob/main/DeepSORT/output_TTN.mp4)
 
 Click on the link above to download a video of the object detection and tracking system in action.
+
+## Sentiment Analysis of Product, Movie, and Restaurant Reviews
+Implemented a sentiment analysis system for analyzing text reviews using a pre-trained model from the Hugging Face Transformers library and a custom LSTM with attention deep learning model architecture using word tokenization and embedding.
+
+Results with the HuggingFace Model are shown below for movie reviews:
+
+![Results](/img/results.png)
+
+[Sentiment Analysis of Reviews](https://github.com/sagar-aujla/Sentiment-Analysis-of-Reviews)
+
+Click on the link above to view the pre-trained model from the Hugging Face Transformers library and the custom-trained LSTM with attention.
 
 ## Publications
 1. Aujla S. et al. Classification of Lung Pathologies in Neonates Using Dual-Tree Complex Wavelet Transform (2023). DOI: 10.1186/s12938-023-01184-x
